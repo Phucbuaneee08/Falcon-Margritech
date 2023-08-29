@@ -248,7 +248,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ball_0: -3603556060819865620
+      ball_1: 7826395881470743827
+      ball_2: 5641732428763174162
+      ball_3: -2809790316608957549
+      ball_4: 4121045027123494526
+      ball_5: 487225773713915244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
