@@ -57,7 +57,7 @@ public class BallSpawner : MonoBehaviour
             // Nếu bóng ra khỏi màn hình, xóa bóng khỏi danh sách và hủy đối tượng bóng
             if (screenPosition.y < 0)
             {
-                activeBalls.RemoveAt(i);
+                activeBalls.RemoveAt(i); 
                 Destroy(ball);
             }
         }
