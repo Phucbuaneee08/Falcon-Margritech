@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oar5zr4e-transformed_cleanup_0: 4243097752553399149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
